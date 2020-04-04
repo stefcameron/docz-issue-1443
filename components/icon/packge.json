@@ -1,0 +1,9 @@
+{
+  "name": "the-icon-package",
+  "version": "1.0.0",
+  "description": "Icon component",
+  "repository": "git@github.com:stefcameron/docz-issue-1443.git",
+  "author": "Stefan Cameron <stefan@stefcameron.com>",
+  "license": "MIT",
+  "private": true
+}

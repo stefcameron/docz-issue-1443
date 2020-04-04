@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Editor/IDE specific files
+*.idea/
+*.sublime-project
+*.sublime-workspace
+*.vim
+*.vscode
+
+# OS specific files
+.DS_Store
+
+# Generated builds throughout
+dist/
+
+# Docz dev server cache
+.docz/
